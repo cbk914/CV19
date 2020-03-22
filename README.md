@@ -14,6 +14,7 @@ Information compiled from public sources and own research.
 ### ANTI FAKE NEWS
 
 - [MALDITA.ES PERIODISMO PARA QUE NO TE LA CUELEN](https://maldita.es)
+- [NEWTRAL](https://www.newtral.es/)
 
 ### BLOCKLISTS PHISHING COVID 19
 - [CCN CERT](https://loreto.ccn-cert.cni.es/index.php/s/oDcNr5Jqqpd5cjn)
