@@ -37,6 +37,8 @@ Information compiled from public sources and own research.
 ### FREE SERVICES ON CONFINEMENT TIME
 
 - [PORNHUB](https://es.pornhub.com/spain?AB=1)
+- [VIDEOGAMES](https://www.lavanguardia.com/videojuegos/20200316/474187260250/videojuegos-gratis-confinamiento-coronavirus-playstation-xbox-pc-nintendo-swtich.html)
+- [MUSIC, VIDEOGAMES, MOVIES, BOOKS, EDUCATION](https://es.gizmodo.com/18-servicios-y-contenidos-gratuitos-para-entretenerte-d-1842370974)
 
 ### OFFICIAL APPS
 
