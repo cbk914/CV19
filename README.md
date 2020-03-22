@@ -24,6 +24,7 @@ Information compiled from public sources and own research.
 - [ATTACKERS USE A NEW CORONAVIRUS RANSOMWARE TO COVER KPOT INFOSTEALER INFECTIONS](https://www.cyberdefensemagazine.com/attackers-use-a-new-coronavirus-ransomware-to-cover-kpot-infostealer-infections/)
 - [COMMERCIAL SURVEILLANCE OPERATORS LATEST TO TAKE ADVANTAGE OF COVID 19 by KRISTIN DEL ROSSO](https://blog.lookout.com/commercial-surveillanceware-operators-latest-to-take-advantage-of-covid-19)
 - [CYBER VOLUNTEERS 19 BLOG](http://cyberv19.org.uk/blog/)
+- [HACKERS ARE TARGETING HOSPITALS CRIPPLED BY CORONAVIRUS](https://www.wired.co.uk/article/coronavirus-hackers-cybercrime-phishing)
 - [L'AGENCIA DE CIBERSEGURETAT DE CATALUNYA ALERTA LA CIUTADANIA DELS CIBERFRAUS I CIBERDELICTES RELACIONATS AMB LA COVID-19](https://ciberseguretat.gencat.cat/ca/detalls/noticia/LAgencia-de-Ciberseguretat-de-Catalunya-alerta-la-ciutadania-dels-ciberfraus-i-ciberdelictes-relacionats-amb-la-COVID-19)
 - [THE HACKER NEWS](https://thehackernews.com/2020/03/covid-19-coronavirus-hacker-malware.html)
 - [¿TIENES DUDAS SOBRE EL CORONAVIRUS? EL DR.ANTONI TRILLA LAS RESPONDE](https://youtu.be/zbHwaWs-vBs)
@@ -36,9 +37,9 @@ Information compiled from public sources and own research.
 
 ### FREE SERVICES ON CONFINEMENT TIME
 
+- [MUSIC, VIDEOGAMES, MOVIES, BOOKS, EDUCATION](https://es.gizmodo.com/18-servicios-y-contenidos-gratuitos-para-entretenerte-d-1842370974)
 - [PORNHUB](https://es.pornhub.com/spain?AB=1)
 - [VIDEOGAMES](https://www.lavanguardia.com/videojuegos/20200316/474187260250/videojuegos-gratis-confinamiento-coronavirus-playstation-xbox-pc-nintendo-swtich.html)
-- [MUSIC, VIDEOGAMES, MOVIES, BOOKS, EDUCATION](https://es.gizmodo.com/18-servicios-y-contenidos-gratuitos-para-entretenerte-d-1842370974)
 
 ### OFFICIAL APPS
 
