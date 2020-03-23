@@ -23,6 +23,7 @@ Information compiled from public sources, Telegram Groups and own research.
 ### BLOGS & NEWS
 - [ATTACKERS USE A NEW CORONAVIRUS RANSOMWARE TO COVER KPOT INFOSTEALER INFECTIONS](https://www.cyberdefensemagazine.com/attackers-use-a-new-coronavirus-ransomware-to-cover-kpot-infostealer-infections/)
 - [COMMERCIAL SURVEILLANCE OPERATORS LATEST TO TAKE ADVANTAGE OF COVID 19 by KRISTIN DEL ROSSO](https://blog.lookout.com/commercial-surveillanceware-operators-latest-to-take-advantage-of-covid-19)
+- [CORONAVIRUS SCAM ALERT WATCH OUT FOR THESE RISKY COVID-19 WEBSITES AND E-MAILS](https://www.forbes.com/sites/thomasbrewster/2020/03/12/coronavirus-scam-alert-watch-out-for-these-risky-covid-19-websites-and-emails/)
 - [CYBER VOLUNTEERS 19 BLOG](http://cyberv19.org.uk/blog/)
 - [HACKERS ARE TARGETING HOSPITALS CRIPPLED BY CORONAVIRUS](https://www.wired.co.uk/article/coronavirus-hackers-cybercrime-phishing)
 - [L'AGENCIA DE CIBERSEGURETAT DE CATALUNYA ALERTA LA CIUTADANIA DELS CIBERFRAUS I CIBERDELICTES RELACIONATS AMB LA COVID-19](https://ciberseguretat.gencat.cat/ca/detalls/noticia/LAgencia-de-Ciberseguretat-de-Catalunya-alerta-la-ciutadania-dels-ciberfraus-i-ciberdelictes-relacionats-amb-la-COVID-19)
