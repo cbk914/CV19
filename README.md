@@ -12,6 +12,7 @@ Thanks to all people that are sending me the spam messages they receive. Togethe
 - [BLOGS & NEWS](#blogs--news)
 - [CITIZEN HELP NETWORKS](#citizen-help-networks)
 - [FREE SERVICES ON CONFINEMENT TIME](#free-services-on-confinement-time)
+- [MAPS](#maps)
 - [OFFICIAL APPS](#official-apps)
 - [OPEN APPS](#open-apps)
 - [SAFE WORK GUIDELINES](#safe-work-guidelines)
@@ -50,6 +51,10 @@ Thanks to all people that are sending me the spam messages they receive. Togethe
 - [PORNHUB](https://es.pornhub.com/spain?AB=1)
 - [UNIVERSIDADES DE ESPAÑA OFRECEN 42 CURSOS ONLINE GRATUITOS PARA HACER EN CUARENTENA](https://cerebrodigital.org/post/Universidades-de-Espana-ofrecen-42-cursos-online-gratuitos-para-hacer-en-cuarentena)
 - [VIDEOGAMES](https://www.lavanguardia.com/videojuegos/20200316/474187260250/videojuegos-gratis-confinamiento-coronavirus-playstation-xbox-pc-nintendo-swtich.html)
+
+### MAPS
+
+- [MAPA CORONAVIRUS CATALUNYA](https://www.google.com/maps/d/viewer?mid=1H1tkCXvHPeuxVP50E7VblTUzmXgFMtHh&ll=41.60834498977679%2C2.082892678268422&z=11)
 
 ### OFFICIAL APPS
 
