@@ -13,7 +13,7 @@ Thanks to all people that are sending me the spam messages they receive. Togethe
 - [CITIZEN HELP NETWORKS](#citizen-help-networks)
 - [FREE SERVICES ON CONFINEMENT TIME](#free-services-on-confinement-time)
 - [OFFICIAL APPS](#official-apps)
-- [SAFE WORK](#safe-work)
+- [SAFE WORK GUIDELINES](#safe-work-guidelines)
 
 ### ANTI FAKE NEWS
 
@@ -54,6 +54,6 @@ Thanks to all people that are sending me the spam messages they receive. Togethe
 - [COMUNIDAD DE CATALUNYA](http://canalsalut.gencat.cat/ca/salut-a-z/c/coronavirus-2019-ncov/stop-covid19-cat/)
 - [COMUNIDAD DE MADRID](https://webapp.coronamadrid.com/)
 
-### SAFE WORK
+### SAFE WORK GUIDELINES
 
 - [SANS SECURITY AWARENESS WORK-FROM-HOME DEPLOYMENT KIT](https://www.sans.org/security-awareness-training/sans-security-awareness-work-home-deployment-kit)
