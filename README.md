@@ -1,5 +1,5 @@
 # CV19
-Repository of files used in the anti-phishing campaign launched by the cybervolunteer group CV19 and other trusted information about anti-COVID-19 initiatives.
+Repository of files for the anti-phishing campaign launched by the cybervolunteer group CV19 and other trusted information about anti-COVID-19 initiatives.
 Information compiled from public sources, Telegram Groups and own research.
 Thanks to all people that are sending me the spam messages they receive. Together for victory :)
 
@@ -31,6 +31,7 @@ Thanks to all people that are sending me the spam messages they receive. Togethe
 - [CYBER VOLUNTEERS 19 BLOG](http://cyberv19.org.uk/blog/)
 - [HACKERS ARE TARGETING HOSPITALS CRIPPLED BY CORONAVIRUS](https://www.wired.co.uk/article/coronavirus-hackers-cybercrime-phishing)
 - [L'AGENCIA DE CIBERSEGURETAT DE CATALUNYA ALERTA LA CIUTADANIA DELS CIBERFRAUS I CIBERDELICTES RELACIONATS AMB LA COVID-19](https://ciberseguretat.gencat.cat/ca/detalls/noticia/LAgencia-de-Ciberseguretat-de-Catalunya-alerta-la-ciutadania-dels-ciberfraus-i-ciberdelictes-relacionats-amb-la-COVID-19)
+- [LA POLICÍA DETECTA UN INTENTO DE ATAQUE POR EMAIL PARA ROMPER "TODO EL SISTEMA INFORMÁTICO DE LOS HOSPITALES"](https://cadenaser.com/ser/2020/03/23/tribunales/1584959483_350272.html)
 - [THE HACKER NEWS](https://thehackernews.com/2020/03/covid-19-coronavirus-hacker-malware.html)
 - [¿TIENES DUDAS SOBRE EL CORONAVIRUS? EL DR.ANTONI TRILLA LAS RESPONDE](https://youtu.be/zbHwaWs-vBs)
 
@@ -44,6 +45,7 @@ Thanks to all people that are sending me the spam messages they receive. Togethe
 
 - [MUSIC, VIDEOGAMES, MOVIES, BOOKS, EDUCATION](https://es.gizmodo.com/18-servicios-y-contenidos-gratuitos-para-entretenerte-d-1842370974)
 - [PORNHUB](https://es.pornhub.com/spain?AB=1)
+- [UNIVERSIDADES DE ESPAÑA OFRECEN 42 CURSOS ONLINE GRATUITOS PARA HACER EN CUARENTENA](https://cerebrodigital.org/post/Universidades-de-Espana-ofrecen-42-cursos-online-gratuitos-para-hacer-en-cuarentena)
 - [VIDEOGAMES](https://www.lavanguardia.com/videojuegos/20200316/474187260250/videojuegos-gratis-confinamiento-coronavirus-playstation-xbox-pc-nintendo-swtich.html)
 
 ### OFFICIAL APPS
