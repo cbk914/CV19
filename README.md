@@ -27,6 +27,7 @@ Thanks to all people that are sending me the spam messages they receive. Togethe
 ### BLOGS & NEWS
 - [ATTACKERS USE A NEW CORONAVIRUS RANSOMWARE TO COVER KPOT INFOSTEALER INFECTIONS](https://www.cyberdefensemagazine.com/attackers-use-a-new-coronavirus-ransomware-to-cover-kpot-infostealer-infections/)
 - [CANADA'S CYBER SPIES TAKING DOWN SITES AS BATTLE AGAINST COVID-19 FRAUD BEGINS](https://www.cbc.ca/news/politics/cse-disinformation-spoofing-1.5504619)
+- [CIBERINTELIGENCIA FRENTE AL CIBERCRIMEN COVID-19](https://derechodelared.com/covid-ciberinteligencia/)
 - [COMMERCIAL SURVEILLANCE OPERATORS LATEST TO TAKE ADVANTAGE OF COVID 19 by KRISTIN DEL ROSSO](https://blog.lookout.com/commercial-surveillanceware-operators-latest-to-take-advantage-of-covid-19)
 - [CORONAVIRUS SCAM ALERT WATCH OUT FOR THESE RISKY COVID-19 WEBSITES AND E-MAILS](https://www.forbes.com/sites/thomasbrewster/2020/03/12/coronavirus-scam-alert-watch-out-for-these-risky-covid-19-websites-and-emails/)
 - [CYBER VOLUNTEERS 19 BLOG](http://cyberv19.org.uk/blog/)
