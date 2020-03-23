@@ -53,4 +53,4 @@ Thanks to all people that are sending me the spam messages they receive. Togethe
 
 ### SAFE WORK
 
--[SANS SECURITY AWARENESS WORK-FROM-HOME DEPLOYMENT KIT](https://www.sans.org/security-awareness-training/sans-security-awareness-work-home-deployment-kit)
+- [SANS SECURITY AWARENESS WORK-FROM-HOME DEPLOYMENT KIT](https://www.sans.org/security-awareness-training/sans-security-awareness-work-home-deployment-kit)
