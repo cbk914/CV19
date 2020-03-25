@@ -172,9 +172,6 @@ coronatowel.space
 coronavid19.net
 coronavideo3.tk
 coronavirss.rest
-coronavirus.app
-coronavirus.zone
-coronavirusstatus.space
 coronavirus-2019.firebaseio.com
 coronavirus-2019.us
 coronavirus-266714.firebaseio.com
@@ -225,6 +222,7 @@ coronavirus-update.ru
 coronavirus-update.today
 coronavirus-wiki.com					
 coronavirus.app
+coronavirus.app
 coronavirus.cc
 coronavirus.computer
 coronavirus.investments
@@ -233,6 +231,7 @@ coronavirus.oss-accelerate.aliyuncs.com
 coronavirus.schule
 coronavirus.toys
 coronavirus.uno
+coronavirus.zone
 coronavirus.zone
 coronavirus019.com				  
 coronavirus19.app
@@ -308,6 +307,7 @@ coronavirusscreeningterminal.com
 coronavirussen.com
 coronavirussickleave.com
 coronavirusstatisticsandinformation.com
+coronavirusstatus.space
 coronavirusstatus.space
 coronavirussymptomchecker.com
 coronavirussymptoms.in
