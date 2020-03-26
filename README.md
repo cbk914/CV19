@@ -24,6 +24,7 @@ Thanks to all people that are sending me the spam & phishing messages they recei
 
 ### BLOCKLISTS PHISHING COVID 19
 - [CCN CERT](https://loreto.ccn-cert.cni.es/index.php/s/oDcNr5Jqqpd5cjn)
+- [PARTHDMANIAR GITHUB](https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs)
 - [PHISHING ARMY](https://phishing.army/download/phishing_army_blocklist_extended.txt)
 
 ### BLOGS & NEWS
