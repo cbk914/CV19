@@ -1,6 +1,6 @@
 # CV19
 Repository of files for the anti-phishing campaign launched by the cybervolunteer group CV19 and other trusted information about anti-COVID-19 initiatives.
-Information compiled from public sources, Telegram Groups and own research.
+Information compiled from public sources, direct contributions, Telegram Groups and own research.
 Thanks to all people that are sending me the scam & phishing messages,hashes and infected apps they receive, and, of course, those who contribute with their hard work to this cause.
 Together for victory :)
 
