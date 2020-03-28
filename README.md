@@ -13,6 +13,7 @@ Together for victory :)
 - [BLOGS & NEWS](#blogs--news)
 - [CITIZEN HELP NETWORKS](#citizen-help-networks)
 - [FREE SERVICES ON CONFINEMENT TIME](#free-services-on-confinement-time)
+- [HEALTH SERVICES RELATED JOBS](#health-services-related-jobs)
 - [MAPS](#maps)
 - [OFFICIAL APPS](#official-apps)
 - [OPEN APPS](#open-apps)
@@ -53,6 +54,12 @@ Together for victory :)
 - [PORNHUB](https://es.pornhub.com/spain?AB=1)
 - [UNIVERSIDADES DE ESPAÑA OFRECEN 42 CURSOS ONLINE GRATUITOS PARA HACER EN CUARENTENA](https://cerebrodigital.org/post/Universidades-de-Espana-ofrecen-42-cursos-online-gratuitos-para-hacer-en-cuarentena)
 - [VIDEOGAMES](https://www.lavanguardia.com/videojuegos/20200316/474187260250/videojuegos-gratis-confinamiento-coronavirus-playstation-xbox-pc-nintendo-swtich.html)
+
+### HEALTH SERVICES RELATED JOBS
+
+- [URGENT / PYTHON DEVELOPERS / PCR PROGRAMMING / HOSPITAL VALL D'HEBRON / BARCELONA](https://www.meetup.com/es-ES/python-barcelona/messages/83186531/?messageId=83186531)
+- [URGENT / VARIOUS HOSPITAL JOB POSITIONS / MADRID](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6649304769439510528/)
+- [VARIOUS HOSPITAL JOB POSITIONS / MADRID](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6649304290802311168/)
 
 ### MAPS
 
