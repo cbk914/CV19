@@ -1,6 +1,6 @@
 # CV19
 
-Repository of files for independent anti-phishing COVID-19 campaign and other trusted information about anti-COVID-19 initiatives.
+Repository of independent anti-phishing COVID-19 campaign and other trusted information about anti-COVID-19 initiatives.
 +500 malware hashes, +5800 domains, +1000 IP's. It can be used on antimalware products and DNS blocklist devices and software [Pi-Hole](https://pi-hole.net), [pfSense](https://www.pfsense.org), [OPNsense](https://opnsense.org)...
 
 Information compiled from public sources, direct contributions from international researchers, Telegram Groups and own research.
