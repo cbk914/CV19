@@ -1,7 +1,7 @@
 # CV19
 
 Repository of independent anti-phishing COVID-19 campaign and other trusted information about anti-COVID-19 initiatives.
-+500 malware hashes, +5800 domains, +1000 IP's. It can be used on antimalware products and DNS blocklist devices and software: [Pi-Hole](https://pi-hole.net), [pfSense](https://www.pfsense.org), [OPNsense](https://opnsense.org)...
++500 malware hashes, +5800 domains, +1000 IP's. It can be used on antimalware products and DNS blocklist devices and software: [Pi-Hole](https://pi-hole.net), [pfSense](https://www.pfsense.org), [OPNsense](https://opnsense.org) ...
 
 Information compiled from public sources, direct contributions from international researchers, Telegram Groups and own research.
 Thanks to all people that are sending me the scam & phishing messages, hashes and infected apps they receive, and, of course, those who contribute with their hard work to this cause (you know who you are).
@@ -32,6 +32,7 @@ Together for victory :)
 
 ### BLOCKLISTS PHISHING COVID 19
 
+- [ALIENVAULT IOC's](https://otx.alienvault.com/pulse/5e7e782b2649c3f4232117ee)
 - [CCN CERT](https://loreto.ccn-cert.cni.es/index.php/s/oDcNr5Jqqpd5cjn)
 - [PARTHDMANIAR GITHUB](https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs)
 - [PHISHING ARMY](https://phishing.army/download/phishing_army_blocklist_extended.txt)
@@ -54,10 +55,10 @@ Together for victory :)
 
 - [CORONAVIRUS MAKERS](http://foro.coronavirusmakers.org/)
 - [COMUNIDAD MAKER DE EUSKADI CONTRA EL CORONAVIRUS](https://covideuskadi.net/impresion-3d)
-- [INICIATIVAS DE TODOS Y PARA TODOS CONTRA EL COVID 19](https://frenalacurva.net/)
 
 ### COVID-19 INITIATIVES
 
+- [INICIATIVAS DE TODOS Y PARA TODOS CONTRA EL COVID 19](https://frenalacurva.net/)
 - [MAPEO DE INICIATIVAS COVID-19](https://docs.google.com/document/d/1zWI9Pdp0mcZd-9ATPjELKRFenZfYkc1aYxAkQXaymtI/edit)
 
 ### FREE SERVICES ON CONFINEMENT TIME
