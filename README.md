@@ -4,8 +4,6 @@ Information compiled from public sources, direct contributions, Telegram Groups 
 Thanks to all people that are sending me the scam & phishing messages,hashes and infected apps they receive, and, of course, those who contribute with their hard work to this cause (you know who you are).
 Together for victory :)
 
-[![JOIN CV19](https://media-exp1.licdn.com/dms/image/C4D22AQFuDTpiS_-eiw/feedshare-shrink_800/0?e=1587600000&v=beta&t=khENu9Cr6KyBoi5lrnu84oIktUi_MJd85qNq1_-FrrM)](https://cyberv19.org.uk)
-
 ## TABLE OF CONTENTS
 
 - [ANTI FAKE NEWS](#anti-fake-news)
@@ -35,7 +33,6 @@ Together for victory :)
 - [CIBERINTELIGENCIA FRENTE AL CIBERCRIMEN COVID-19](https://derechodelared.com/covid-ciberinteligencia/)
 - [COMMERCIAL SURVEILLANCE OPERATORS LATEST TO TAKE ADVANTAGE OF COVID 19 by KRISTIN DEL ROSSO](https://blog.lookout.com/commercial-surveillanceware-operators-latest-to-take-advantage-of-covid-19)
 - [CORONAVIRUS SCAM ALERT WATCH OUT FOR THESE RISKY COVID-19 WEBSITES AND E-MAILS](https://www.forbes.com/sites/thomasbrewster/2020/03/12/coronavirus-scam-alert-watch-out-for-these-risky-covid-19-websites-and-emails/)
-- [CYBER VOLUNTEERS 19 BLOG](http://cyberv19.org.uk/blog/)
 - [HACKERS ARE TARGETING HOSPITALS CRIPPLED BY CORONAVIRUS](https://www.wired.co.uk/article/coronavirus-hackers-cybercrime-phishing)
 - [L'AGENCIA DE CIBERSEGURETAT DE CATALUNYA ALERTA LA CIUTADANIA DELS CIBERFRAUS I CIBERDELICTES RELACIONATS AMB LA COVID-19](https://ciberseguretat.gencat.cat/ca/detalls/noticia/LAgencia-de-Ciberseguretat-de-Catalunya-alerta-la-ciutadania-dels-ciberfraus-i-ciberdelictes-relacionats-amb-la-COVID-19)
 - [LA POLICÍA DETECTA UN INTENTO DE ATAQUE POR EMAIL PARA ROMPER "TODO EL SISTEMA INFORMÁTICO DE LOS HOSPITALES"](https://cadenaser.com/ser/2020/03/23/tribunales/1584959483_350272.html)
