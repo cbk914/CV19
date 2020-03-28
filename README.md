@@ -1,10 +1,13 @@
 # CV19
+
 Repository of files for independent anti-phishing COVID-19 campaign and other trusted information about anti-COVID-19 initiatives.
-+500 malware hashes, +5800 domains, +1000 IP's. They can be used on antimalware products, DNS blocklist devices and software [Pi-Hole](https://pi-hole.net), [pfSense](https://www.pfsense.org), [OPNsense](https://opnsense.org)...
++500 malware hashes, +5800 domains, +1000 IP's. It can be used on antimalware products and DNS blocklist devices and software [Pi-Hole](https://pi-hole.net), [pfSense](https://www.pfsense.org), [OPNsense](https://opnsense.org)...
 
 Information compiled from public sources, direct contributions from international researchers, Telegram Groups and own research.
-Thanks to all people that are sending me the scam & phishing messages,hashes and infected apps they receive, and, of course, those who contribute with their hard work to this cause (you know who you are).
+Thanks to all people that are sending me the scam & phishing messages, hashes and infected apps they receive, and, of course, those who contribute with their hard work to this cause (you know who you are).
 Together for victory :)
+
+[![JOIN CV19](https://media-exp1.licdn.com/dms/image/C4D22AQFuDTpiS_-eiw/feedshare-shrink_800/0?e=1587600000&v=beta&t=khENu9Cr6KyBoi5lrnu84oIktUi_MJd85qNq1_-FrrM)](https://cyberv19.org.uk)
 
 ## TABLE OF CONTENTS
 
@@ -22,8 +25,10 @@ Together for victory :)
 
 ### ANTI FAKE NEWS
 
+- [EPIDEMIXS CORONAVIRUS](https://coronavirus.epidemixs.org)
 - [MALDITA.ES PERIODISMO PARA QUE NO TE LA CUELEN](https://maldita.es)
 - [NEWTRAL](https://www.newtral.es/)
+- [SALUD SIN BULOS](https://saludsinbulos.com)
 
 ### BLOCKLISTS PHISHING COVID 19
 
@@ -38,6 +43,7 @@ Together for victory :)
 - [CIBERINTELIGENCIA FRENTE AL CIBERCRIMEN COVID-19](https://derechodelared.com/covid-ciberinteligencia/)
 - [COMMERCIAL SURVEILLANCE OPERATORS LATEST TO TAKE ADVANTAGE OF COVID 19 by KRISTIN DEL ROSSO](https://blog.lookout.com/commercial-surveillanceware-operators-latest-to-take-advantage-of-covid-19)
 - [CORONAVIRUS SCAM ALERT WATCH OUT FOR THESE RISKY COVID-19 WEBSITES AND E-MAILS](https://www.forbes.com/sites/thomasbrewster/2020/03/12/coronavirus-scam-alert-watch-out-for-these-risky-covid-19-websites-and-emails/)
+- [CYBER VOLUNTEERS 19 BLOG](http://cyberv19.org.uk/blog/)
 - [HACKERS ARE TARGETING HOSPITALS CRIPPLED BY CORONAVIRUS](https://www.wired.co.uk/article/coronavirus-hackers-cybercrime-phishing)
 - [L'AGENCIA DE CIBERSEGURETAT DE CATALUNYA ALERTA LA CIUTADANIA DELS CIBERFRAUS I CIBERDELICTES RELACIONATS AMB LA COVID-19](https://ciberseguretat.gencat.cat/ca/detalls/noticia/LAgencia-de-Ciberseguretat-de-Catalunya-alerta-la-ciutadania-dels-ciberfraus-i-ciberdelictes-relacionats-amb-la-COVID-19)
 - [LA POLICÍA DETECTA UN INTENTO DE ATAQUE POR EMAIL PARA ROMPER "TODO EL SISTEMA INFORMÁTICO DE LOS HOSPITALES"](https://cadenaser.com/ser/2020/03/23/tribunales/1584959483_350272.html)
