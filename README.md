@@ -12,7 +12,7 @@ Together for victory :)
 ## TABLE OF CONTENTS
 
 - [ANTI FAKE NEWS](#anti-fake-news)
-- [BLOCKLISTS PHISHING COVID-19](#blocklists-phishing-covid-19)
+- [BLOCKLISTS & IOC PHISHING COVID-19](#blocklists--ioc-phishing-covid-19)
 - [BLOGS & NEWS](#blogs--news)
 - [CITIZEN HELP NETWORKS](#citizen-help-networks)
 - [COVID-19 INITIATIVES](#covid-19-initiatives)
@@ -31,9 +31,10 @@ Together for victory :)
 - [NEWTRAL](https://www.newtral.es/)
 - [SALUD SIN BULOS](https://saludsinbulos.com)
 
-### BLOCKLISTS PHISHING COVID 19
+### BLOCKLISTS & IOC PHISHING COVID 19
 
 - [ALIENVAULT IOC's](https://otx.alienvault.com/pulse/5e7e782b2649c3f4232117ee)
+- [HOSPITALS TARGETED WITH TRICKBOT DELIVERING RYUK RANSOMWARE / ALIENVAULT](https://otx.alienvault.com/pulse/5e7cc5274bea708f20593bec)
 - [CCN CERT](https://loreto.ccn-cert.cni.es/index.php/s/oDcNr5Jqqpd5cjn)
 - [PARTHDMANIAR GITHUB](https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs)
 - [PHISHING ARMY](https://phishing.army/download/phishing_army_blocklist_extended.txt)
