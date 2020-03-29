@@ -1,7 +1,8 @@
 # CV19
 
 Repository of independent anti-phishing COVID-19 campaign and other trusted information about anti-COVID-19 initiatives.
-+500 malware hashes, +5800 domains, +1000 IP's. It can be used on antimalware products and DNS blocklist devices and software: [Pi-Hole](https://pi-hole.net), [pfSense](https://www.pfsense.org), [OPNsense](https://opnsense.org) ...
++500 malware hashes, +5800 domains, +1000 IP's. The domain list is work in progress and actually doing false positive verifications (it may contain legitime domains, take care about that!).
+It can be used on antimalware products and DNS blocklist devices and software: [Pi-Hole](https://pi-hole.net), [pfSense](https://www.pfsense.org), [OPNsense](https://opnsense.org) ...
 
 Information compiled from public sources, direct contributions from international researchers, Telegram Groups and own research.
 Thanks to all people that are sending me the scam & phishing messages, hashes and infected apps they receive, and, of course, those who contribute with their hard work to this cause (you know who you are).
