@@ -85,6 +85,7 @@ Together for victory :)
 
 - [GLOBAL MAP](https://edition.cnn.com/interactive/2020/health/coronavirus-maps-and-cases/)
 - [MAPA CORONAVIRUS CATALUNYA](https://www.google.com/maps/d/viewer?mid=1H1tkCXvHPeuxVP50E7VblTUzmXgFMtHh&ll=41.60834498977679%2C2.082892678268422&z=11)
+- [UNIVERSIDAD DE ALCALA DE HENARES](https://covid.alphasec.eu/app/kibana#/dashboards)
 
 ### OFFICIAL APPS
 
@@ -93,7 +94,8 @@ Together for victory :)
 
 ### OPEN APPS
 
-- [OPEN COVID-19 TEST](https://github.com/celiavelmar/open-covid19-test)
+- [OPEN COVID-19 TEST](https://celiavelmar.github.io/open-covid19-test/)
+- [OPEN COVID-19 TEST CODE](https://github.com/celiavelmar/open-covid19-test)
 
 ### SAFE WORK GUIDELINES
 
