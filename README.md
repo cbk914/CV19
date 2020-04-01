@@ -82,6 +82,7 @@ Together for victory :)
 
 - [BIENESTAR EMOCIONAL ANTE EL COVID-19 (CRUZ ROJA):](https://www.cruzroja.es/cre_web/formacion/materiales/pfbienestaremocional/index.html)
 - [REPOSITORIO DE FABRICACION DE MATERIAL CONTRA EL COVID19 DE LA UNE DE ESPAÑA](https://github.com/eastierp/UNE-COVID19)
+- [OPEN SOURCE VALIDATION TESTS FOR OPEN SOURCE COVID-19 EMERGENCY VENTILATORS](https://medium.com/@RobertLeeRead/open-source-validation-tests-for-open-source-covid-19-emergency-ventilators-7096c6393d61)
 
 ### MAPS
 
