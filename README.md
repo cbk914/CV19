@@ -64,6 +64,7 @@ Together for victory :)
 
 - [INICIATIVAS DE TODOS Y PARA TODOS CONTRA EL COVID 19](https://frenalacurva.net/)
 - [MAPEO DE INICIATIVAS COVID-19](https://docs.google.com/document/d/1zWI9Pdp0mcZd-9ATPjELKRFenZfYkc1aYxAkQXaymtI/edit)
+- [RASTREADOR DE VOLUNTARIOS](https://rastreadordevoluntarios.com)
 
 ### FREE SERVICES ON CONFINEMENT TIME
 
@@ -81,6 +82,8 @@ Together for victory :)
 ### HEALTH SERVICES RELATED MATERIAL
 
 - [BIENESTAR EMOCIONAL ANTE EL COVID-19 (CRUZ ROJA):](https://www.cruzroja.es/cre_web/formacion/materiales/pfbienestaremocional/index.html)
+- [RESPIRADOR MANUAL AUTOMATIZADO](https://www.paoson.com/en/blog/automated-ambu-type-ventilator-n137)
+- [RESPIRADORES PARA EL COVID-19](https://www.frax3d.com/respiradores)
 - [REPOSITORIO DE FABRICACION DE MATERIAL CONTRA EL COVID19 DE LA UNE DE ESPAÑA](https://github.com/eastierp/UNE-COVID19)
 - [OPEN SOURCE VALIDATION TESTS FOR OPEN SOURCE COVID-19 EMERGENCY VENTILATORS](https://medium.com/@RobertLeeRead/open-source-validation-tests-for-open-source-covid-19-emergency-ventilators-7096c6393d61)
 
@@ -97,6 +100,7 @@ Together for victory :)
 
 ### OPEN APPS
 
+- [OPEN CORONAVIRUS](https://github.com/open-coronavirus/open-coronavirus)
 - [OPEN COVID-19 TEST](https://celiavelmar.github.io/open-covid19-test/)
 - [OPEN COVID-19 TEST CODE](https://github.com/celiavelmar/open-covid19-test)
 
