@@ -48,6 +48,7 @@ Together for victory :)
 - [COMMERCIAL SURVEILLANCE OPERATORS LATEST TO TAKE ADVANTAGE OF COVID 19 by KRISTIN DEL ROSSO](https://blog.lookout.com/commercial-surveillanceware-operators-latest-to-take-advantage-of-covid-19)
 - [CORONAVIRUS SCAM ALERT WATCH OUT FOR THESE RISKY COVID-19 WEBSITES AND E-MAILS](https://www.forbes.com/sites/thomasbrewster/2020/03/12/coronavirus-scam-alert-watch-out-for-these-risky-covid-19-websites-and-emails/)
 - [CYBER VOLUNTEERS 19 BLOG](http://cyberv19.org.uk/blog/)
+- [DATACOVID, ASÍ ES EL ESTUDIO QUE RASTREARÁ LOS MÓVILES ESPAÑOLES PARA LUCHAR CONTRA EL CORONAVIRUS](https://hipertextual.com/2020/04/datacovid-moviles-coronavirus)
 - [EL GOBIERNO RASTREARA LOS TELEFONOS MOVILES PARA LUCHAR CONTRA EL CORONAVIRUS](https://www.lavanguardia.com/vida/20200328/48141359424/coronavirus-covid-19-telefonos-moviles-boe-gobierno-contagio-estado.html)
 - [HACKERS ARE TARGETING HOSPITALS CRIPPLED BY CORONAVIRUS](https://www.wired.co.uk/article/coronavirus-hackers-cybercrime-phishing)
 - [L'AGENCIA DE CIBERSEGURETAT DE CATALUNYA ALERTA LA CIUTADANIA DELS CIBERFRAUS I CIBERDELICTES RELACIONATS AMB LA COVID-19](https://ciberseguretat.gencat.cat/ca/detalls/noticia/LAgencia-de-Ciberseguretat-de-Catalunya-alerta-la-ciutadania-dels-ciberfraus-i-ciberdelictes-relacionats-amb-la-COVID-19)
@@ -90,6 +91,7 @@ Together for victory :)
 ### MAPS
 
 - [GLOBAL MAP](https://edition.cnn.com/interactive/2020/health/coronavirus-maps-and-cases/)
+- [COVID-19 COMMUNITY MOBILITY REPORTS](https://www.google.com/covid19/mobility/)
 - [MAPA CORONAVIRUS CATALUNYA](https://www.google.com/maps/d/viewer?mid=1H1tkCXvHPeuxVP50E7VblTUzmXgFMtHh&ll=41.60834498977679%2C2.082892678268422&z=11)
 - [UNIVERSIDAD DE ALCALA DE HENARES](https://covid.alphasec.eu/app/kibana#/dashboards)
 
