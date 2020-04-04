@@ -7,7 +7,7 @@ All this content is provided "as is", with good faith for our part, but it may i
 It can be used (at your own risk) on antimalware products and DNS blocklist devices and software: [Pi-Hole](https://pi-hole.net), [pfSense](https://www.pfsense.org), [OPNsense](https://opnsense.org) ...
 
 Important note: 
-Don't click on any link from the lists included on 'BLOCKLISTS & IOC PHISHING COVID 19', only on sandboxed systems.
+Don't click on any link from the lists included on 'BLOCKLISTS & IOC PHISHING COVID 19' section, only on sandboxed systems.
 All the other sections include safe and verified links.
 
 Information compiled from public sources, direct contributions from international researchers, Telegram Groups and own research.
