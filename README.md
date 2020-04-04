@@ -76,6 +76,7 @@ Together for victory :)
 
 ### HEALTH SERVICES RELATED JOBS
 
+- [ENFERMEROS/AS PARA HOSPITAL SAGRAT COR / BARCELONA](https://jobs.hospitalarias.es/jobs/enfermeria/enfermeroa-hospital-sagrat-cor/42)
 - [URGENT / PYTHON DEVELOPERS / PCR PROGRAMMING / HOSPITAL VALL D'HEBRON / BARCELONA](https://www.meetup.com/es-ES/python-barcelona/messages/83186531/?messageId=83186531)
 - [URGENT / VARIOUS HOSPITAL JOB POSITIONS / MADRID](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6649304769439510528/)
 - [VARIOUS HOSPITAL JOB POSITIONS / MADRID](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6649304290802311168/)
