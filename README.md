@@ -70,7 +70,7 @@ Together for victory :)
 
 ### COVID-19 INITIATIVES
 
-- [HACKOVID](https://hackovid.cat)
+- [HACKOVID / LA HACKATON CIUDADANA PARA AFRONTAR EL CONFINAMIENTO](https://hackovid.cat)
 - [INICIATIVAS DE TODOS Y PARA TODOS CONTRA EL COVID 19](https://frenalacurva.net/)
 - [MAPEO DE INICIATIVAS COVID-19](https://docs.google.com/document/d/1zWI9Pdp0mcZd-9ATPjELKRFenZfYkc1aYxAkQXaymtI/edit)
 - [RASTREADOR DE VOLUNTARIOS](https://rastreadordevoluntarios.com)
