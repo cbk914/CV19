@@ -30,6 +30,7 @@ Together for victory :)
 - [OFFICIAL APPS](#official-apps)
 - [OPEN APPS](#open-apps)
 - [SAFE WORK GUIDELINES](#safe-work-guidelines)
+- [TELEGRAM GROUPS](#telegram-groups)
 
 ### ANTI FAKE NEWS
 
@@ -52,7 +53,6 @@ Together for victory :)
 - [CANADA'S CYBER SPIES TAKING DOWN SITES AS BATTLE AGAINST COVID-19 FRAUD BEGINS](https://www.cbc.ca/news/politics/cse-disinformation-spoofing-1.5504619)
 - [CIBERINTELIGENCIA FRENTE AL CIBERCRIMEN COVID-19](https://derechodelared.com/covid-ciberinteligencia/)
 - [COMMERCIAL SURVEILLANCE OPERATORS LATEST TO TAKE ADVANTAGE OF COVID 19 by KRISTIN DEL ROSSO](https://blog.lookout.com/commercial-surveillanceware-operators-latest-to-take-advantage-of-covid-19)
-- [CORONAVIRUS NEWS AND VERIFIED CHANNELS](https://telegram.org/blog/coronavirus)
 - [CORONAVIRUS SCAM ALERT WATCH OUT FOR THESE RISKY COVID-19 WEBSITES AND E-MAILS](https://www.forbes.com/sites/thomasbrewster/2020/03/12/coronavirus-scam-alert-watch-out-for-these-risky-covid-19-websites-and-emails/)
 - [CYBER VOLUNTEERS 19 BLOG](http://cyberv19.org.uk/blog/)
 - [DATACOVID, ASÍ ES EL ESTUDIO QUE RASTREARÁ LOS MÓVILES ESPAÑOLES PARA LUCHAR CONTRA EL CORONAVIRUS](https://hipertextual.com/2020/04/datacovid-moviles-coronavirus)
@@ -99,6 +99,7 @@ Together for victory :)
 - [RESPIRADORES PARA EL COVID-19](https://www.frax3d.com/respiradores)
 - [REPOSITORIO DE FABRICACION DE MATERIAL CONTRA EL COVID19 DE LA UNE DE ESPAÑA](https://github.com/eastierp/UNE-COVID19)
 - [OPEN SOURCE VALIDATION TESTS FOR OPEN SOURCE COVID-19 EMERGENCY VENTILATORS](https://medium.com/@RobertLeeRead/open-source-validation-tests-for-open-source-covid-19-emergency-ventilators-7096c6393d61)
+- [VISORES / MASCARAS GRATIS PARA PROTECCION CONTRA EL COVID-19](www.libreguard.care)
 
 ### MAPS
 
@@ -121,3 +122,13 @@ Together for victory :)
 ### SAFE WORK GUIDELINES
 
 - [SANS SECURITY AWARENESS WORK-FROM-HOME DEPLOYMENT KIT](https://www.sans.org/security-awareness-training/sans-security-awareness-work-home-deployment-kit)
+
+### TELEGRAM GROUPS
+
+- [CORONAVIRUS NEWS AND VERIFIED CHANNELS](https://telegram.org/blog/coronavirus)
+- [CORONAVIRUS MAKERS](https://t.me/coronavirus_makers)
+- [CV19 FAB BCN / CHAT BARCELONA](https://t.me/Grupo_CV19_FAB_BCN)
+- [CV19 FAB BCN /CANAL INFORMACION BARCELONA](https://t.me/Comunicados_CV19_FAB_BCN)
+- [CV19MAKERS REESTISTENCIA TEAM / PARA DISEÑO 3D DEL INSUFLADOR AUTOMATICO](https://t.me/CV19Makers_Ventilador_3D)
+- [CV19Makers / PARA HARDWARE Y FIRMWARE DE APARATOS UTILES](https://t.me/CV19Makers_Ventilador_Soft)
+- [FABRICACION DE VISORES](https://t.me/librevisor)
