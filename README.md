@@ -6,7 +6,7 @@ Repository of independent anti-phishing COVID-19 campaign and other trusted info
 All this content is provided "as is", with good faith for our part, but it may include false positives. Use your own methodologies for verification before using it on production environments.
 It can be used (at your own risk) on antimalware products and DNS blocklist devices and software: [Pi-Hole](https://pi-hole.net), [pfSense](https://www.pfsense.org), [OPNsense](https://opnsense.org) ...
 
-Important note: 
+Important note:
 Don't click on any link from the lists included on 'BLOCKLISTS & IOC PHISHING COVID 19' section, only on sandboxed systems.
 All the other sections include safe and verified links.
 
@@ -95,6 +95,7 @@ Together for victory :)
 
 - [COVID-19 TREATMENT AND VACCINE TRACKER](https://milkeninstitute.org/sites/default/files/2020-03/Covid19%20Tracker%20032020v3-posting.pdf)
 - [BIENESTAR EMOCIONAL ANTE EL COVID-19 (CRUZ ROJA):](https://www.cruzroja.es/cre_web/formacion/materiales/pfbienestaremocional/index.html)
+- [DONACION FILAMENTO PLA PARA IMPRESION 3D PARA COMBATIR EL COVID-19](https://www.impresoras3d.com/producto/donacion-smartfil-pla-covid-19/)
 - [GUIAS PARA FABRICACION DE MASCARILLAS Y ROPA DE PROTECCION](https://www.mincotur.gob.es/es-es/COVID-19/Paginas/guias-para-fabricacion-de-mascarillas-y-ropa-de-proteccion.aspx)
 - [RESPIRADOR MANUAL AUTOMATIZADO](https://www.paoson.com/en/blog/automated-ambu-type-ventilator-n137)
 - [RESPIRADORES PARA EL COVID-19](https://www.frax3d.com/respiradores)
