@@ -18,10 +18,10 @@ Together for victory :)
 
 ## TABLE OF CONTENTS
 
+- [3D MAKERS AGAINST CORONAVIRUS](#3d-makers-against-coronavirus)
 - [ANTI FAKE NEWS](#anti-fake-news)
 - [BLOCKLISTS & IOC PHISHING COVID-19](#blocklists--ioc-phishing-covid-19)
 - [BLOGS & NEWS](#blogs--news)
-- [CITIZEN HELP NETWORKS](#citizen-help-networks)
 - [COVID-19 INITIATIVES](#covid-19-initiatives)
 - [FREE SERVICES ON CONFINEMENT TIME](#free-services-on-confinement-time)
 - [HEALTH SERVICES RELATED JOBS](#health-services-related-jobs)
@@ -31,6 +31,16 @@ Together for victory :)
 - [OPEN APPS](#open-apps)
 - [SAFE WORK GUIDELINES](#safe-work-guidelines)
 - [TELEGRAM GROUPS](#telegram-groups)
+
+### 3D MAKERS AGAINST CORONAVIRUS
+
+- [COMO IMPRIMIR VISERAS EN 3D CONTRA EL CORONAVIRUS](https://youtu.be/wmq1jlFZ5GY)
+- [CORONAVIRUS MAKERS](http://foro.coronavirusmakers.org/)
+- [COMUNIDAD MAKER DE EUSKADI CONTRA EL CORONAVIRUS](https://covideuskadi.net/impresion-3d)
+- [DONACION FILAMENTO PLA PARA IMPRESION 3D PARA COMBATIR EL COVID-19](https://www.impresoras3d.com/producto/donacion-smartfil-pla-covid-19/)
+- [HOW TO 3D PRINT FACE SHIELDS FASTER - FROM 5H TO 1H!](https://youtu.be/_bt1UZAnxnA)
+- [MAKERS DE MADRID CONTRA EL CORONAVIRUS](https://covidmadrid.com/)
+- [VISORES / MASCARAS GRATIS PARA PROTECCION CONTRA EL COVID-19](www.libreguard.care)
 
 ### ANTI FAKE NEWS
 
@@ -63,11 +73,6 @@ Together for victory :)
 - [THE HACKER NEWS](https://thehackernews.com/2020/03/covid-19-coronavirus-hacker-malware.html)
 - [¿TIENES DUDAS SOBRE EL CORONAVIRUS? EL DR.ANTONI TRILLA LAS RESPONDE](https://youtu.be/zbHwaWs-vBs)
 
-### CITIZEN HELP NETWORKS
-
-- [CORONAVIRUS MAKERS](http://foro.coronavirusmakers.org/)
-- [COMUNIDAD MAKER DE EUSKADI CONTRA EL CORONAVIRUS](https://covideuskadi.net/impresion-3d)
-
 ### COVID-19 INITIATIVES
 
 - [HACKOVID / LA HACKATON CIUDADANA PARA AFRONTAR EL CONFINAMIENTO](https://hackovid.cat)
@@ -95,13 +100,11 @@ Together for victory :)
 
 - [COVID-19 TREATMENT AND VACCINE TRACKER](https://milkeninstitute.org/sites/default/files/2020-03/Covid19%20Tracker%20032020v3-posting.pdf)
 - [BIENESTAR EMOCIONAL ANTE EL COVID-19 (CRUZ ROJA):](https://www.cruzroja.es/cre_web/formacion/materiales/pfbienestaremocional/index.html)
-- [DONACION FILAMENTO PLA PARA IMPRESION 3D PARA COMBATIR EL COVID-19](https://www.impresoras3d.com/producto/donacion-smartfil-pla-covid-19/)
 - [GUIAS PARA FABRICACION DE MASCARILLAS Y ROPA DE PROTECCION](https://www.mincotur.gob.es/es-es/COVID-19/Paginas/guias-para-fabricacion-de-mascarillas-y-ropa-de-proteccion.aspx)
 - [RESPIRADOR MANUAL AUTOMATIZADO](https://www.paoson.com/en/blog/automated-ambu-type-ventilator-n137)
 - [RESPIRADORES PARA EL COVID-19](https://www.frax3d.com/respiradores)
 - [REPOSITORIO DE FABRICACION DE MATERIAL CONTRA EL COVID19 DE LA UNE DE ESPAÑA](https://github.com/eastierp/UNE-COVID19)
 - [OPEN SOURCE VALIDATION TESTS FOR OPEN SOURCE COVID-19 EMERGENCY VENTILATORS](https://medium.com/@RobertLeeRead/open-source-validation-tests-for-open-source-covid-19-emergency-ventilators-7096c6393d61)
-- [VISORES / MASCARAS GRATIS PARA PROTECCION CONTRA EL COVID-19](www.libreguard.care)
 
 ### MAPS
 
