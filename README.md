@@ -40,7 +40,7 @@ Together for victory :)
 - [DONACION FILAMENTO PLA PARA IMPRESION 3D PARA COMBATIR EL COVID-19](https://www.impresoras3d.com/producto/donacion-smartfil-pla-covid-19/)
 - [HOW TO 3D PRINT FACE SHIELDS FASTER - FROM 5H TO 1H!](https://youtu.be/_bt1UZAnxnA)
 - [MAKERS DE MADRID CONTRA EL CORONAVIRUS](https://covidmadrid.com/)
-- [VISORES / MASCARAS GRATIS PARA PROTECCION CONTRA EL COVID-19](www.libreguard.care)
+- [VISORES / MASCARAS GRATIS PARA PROTECCION CONTRA EL COVID-19](https://www.libreguard.care)
 
 ### ANTI FAKE NEWS
 
