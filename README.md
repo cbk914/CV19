@@ -103,9 +103,11 @@ Together for victory :)
 - [COVID-19 TREATMENT AND VACCINE TRACKER](https://milkeninstitute.org/sites/default/files/2020-03/Covid19%20Tracker%20032020v3-posting.pdf)
 - [BIENESTAR EMOCIONAL ANTE EL COVID-19 (CRUZ ROJA):](https://www.cruzroja.es/cre_web/formacion/materiales/pfbienestaremocional/index.html)
 - [GUIAS PARA FABRICACION DE MASCARILLAS Y ROPA DE PROTECCION](https://www.mincotur.gob.es/es-es/COVID-19/Paginas/guias-para-fabricacion-de-mascarillas-y-ropa-de-proteccion.aspx)
+- [PROTECTING MEDICAL STAFF DURING COVID-19 INTUBATIONS](https://www.protectcovidstaff.com)
 - [RESPIRADOR MANUAL AUTOMATIZADO](https://www.paoson.com/en/blog/automated-ambu-type-ventilator-n137)
 - [RESPIRADORES PARA EL COVID-19](https://www.frax3d.com/respiradores)
 - [REPOSITORIO DE FABRICACION DE MATERIAL CONTRA EL COVID19 DE LA UNE DE ESPAÑA](https://github.com/eastierp/UNE-COVID19)
+- [SALVA-OREJAS CON FRASES](https://www.thingiverse.com/thing:4270240)
 - [OPEN SOURCE VALIDATION TESTS FOR OPEN SOURCE COVID-19 EMERGENCY VENTILATORS](https://medium.com/@RobertLeeRead/open-source-validation-tests-for-open-source-covid-19-emergency-ventilators-7096c6393d61)
 
 ### MAPS
