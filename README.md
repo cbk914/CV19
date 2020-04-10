@@ -45,6 +45,7 @@ Together for victory :)
 ### ANTI FAKE NEWS
 
 - [EPIDEMIXS CORONAVIRUS](https://coronavirus.epidemixs.org)
+- [FALSOS RUMORS I ESTAFES RELACIONADES AMB EL CORONAVIRUS](https://mossos.gencat.cat/ca/temes/Internet-xarxes-socials-i-aplicacions/Falsosrumors_Estafes/index.html)
 - [MALDITA.ES PERIODISMO PARA QUE NO TE LA CUELEN](https://maldita.es)
 - [NEWTRAL](https://www.newtral.es/)
 - [SALUD SIN BULOS](https://saludsinbulos.com)
