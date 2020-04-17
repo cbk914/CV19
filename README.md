@@ -102,10 +102,12 @@ Together for victory :)
 ### HEALTH SERVICES RELATED MATERIAL
 
 - [ACCESORIO PARA PROTECCION DE OREJAS SANITARIOS CON MASCARILLAS](http://www.impresion3d.pro/accesorio-para-proteccion-de-orejas-sanitarios-con-mascarillas/)
+- [COVID-19 GOVERNMENT MEASURES DATASET](https://www.acaps.org/covid19-government-measures-dataset)
 - [COVID-19 RESPONSE: FREELY AVAILABLE ISO STANDARDS](https://www.iso.org/covid19)
 - [COVID-19 TREATMENT AND VACCINE TRACKER](https://milkeninstitute.org/sites/default/files/2020-03/Covid19%20Tracker%20032020v3-posting.pdf)
 - [BIENESTAR EMOCIONAL ANTE EL COVID-19 (CRUZ ROJA):](https://www.cruzroja.es/cre_web/formacion/materiales/pfbienestaremocional/index.html)
 - [GUIAS PARA FABRICACION DE MASCARILLAS Y ROPA DE PROTECCION](https://www.mincotur.gob.es/es-es/COVID-19/Paginas/guias-para-fabricacion-de-mascarillas-y-ropa-de-proteccion.aspx)
+- [INFORMACION ESTADISTICA PARA EL ANALISIS DEL IMPACTO DE LA CRISIS COVID-19](https://www.ine.es/covid/covid_movilidad.htm)
 - [PROTECTING MEDICAL STAFF DURING COVID-19 INTUBATIONS](https://www.protectcovidstaff.com)
 - [RESPIRADOR MANUAL AUTOMATIZADO](https://www.paoson.com/en/blog/automated-ambu-type-ventilator-n137)
 - [RESPIRADORES PARA EL COVID-19](https://www.frax3d.com/respiradores)
