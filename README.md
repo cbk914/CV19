@@ -116,6 +116,7 @@ Together for victory :)
 - [RESPIRADORES PARA EL COVID-19](https://www.frax3d.com/respiradores)
 - [REPOSITORIO DE FABRICACION DE MATERIAL CONTRA EL COVID19 DE LA UNE DE ESPAÑA](https://github.com/eastierp/UNE-COVID19)
 - [SALVA-OREJAS CON FRASES](https://www.thingiverse.com/thing:4270240)
+- [STOP COVID 19 CAT, DISPONIBLE DE MANERA OBERTA I ALTRUISTA](https://ticsalutsocial.cat/actualitat/stop-covid-19-cat-disponible-de-manera-abierta-y-altruista/)
 - [OPEN SOURCE VALIDATION TESTS FOR OPEN SOURCE COVID-19 EMERGENCY VENTILATORS](https://medium.com/@RobertLeeRead/open-source-validation-tests-for-open-source-covid-19-emergency-ventilators-7096c6393d61)
 
 ### MAPS
